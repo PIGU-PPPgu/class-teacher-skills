@@ -1,4 +1,34 @@
-# Sensitive/local skill data
+# Ignore local/private data and workspace noise
 skills/**/data/
-**/__pycache__/
+data/
+.openclaw/
+.clawdhub/
+.dex/
+memory/
+
+# Secrets / env
+.env
+.env.*
+*.pem
+*.key
+*.secret
+
+# Python
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated / temp
+*.log
+*.tmp
+*.bak
