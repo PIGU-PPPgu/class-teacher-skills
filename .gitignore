@@ -1,0 +1,4 @@
+# Sensitive/local skill data
+skills/**/data/
+**/__pycache__/
+*.pyc

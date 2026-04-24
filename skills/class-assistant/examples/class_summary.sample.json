@@ -1,0 +1,11 @@
+{
+  "school": "示例学校",
+  "school_code": "DEMO001",
+  "total_students": 6,
+  "total_classes": 1,
+  "class_distribution": {
+    "初一示例班": 6
+  },
+  "teachers_count": 0,
+  "note": "This file is sanitized example data for GitHub-safe publishing."
+}
