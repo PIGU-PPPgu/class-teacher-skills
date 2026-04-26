@@ -22,6 +22,61 @@ __pycache__/
 .venv/
 venv/
 
+# Node / packages
+**/node_modules/
+**/package-lock.json
+
+# Known private scripts that currently contain hard-coded credentials
+skills/wechat-publisher-pro/scripts/auto_weekly.py
+
+# Local workspace docs and personal context
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
+
+# Local generated / analysis artifacts
+*.csv
+*.pdf
+*.pptx
+*.tgz
+*.png
+*.svg
+*.html
+result*.json
+EOF
+PATCH
+notion_assets/
+canvas/
+slides/
+edu-math/
+
+# Root-level scratch / drafts kept out of public repo by default
+/*.md
+/*.py
+/*.json
+/*.txt
+/scripts/
+
+# Root-level dated inventories / work logs
+/skills_inventory_*.md
+/task_summary_*.md
+/paper_analysis_*.md
+
+# Allow intentional public root docs and entrypoints
+!/README.md
+!/CONTRIBUTING.md
+!/INSTALL.md
+!/LICENSE
+!/requirements.txt
+!/AGENT_INSTRUCTIONS.md
+!/HOW_TO_USE_SKILLS.md
+!/class-teacher-feishu-doc.md
+
 # OS / editor
 .DS_Store
 Thumbs.db

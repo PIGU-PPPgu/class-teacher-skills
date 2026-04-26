@@ -72,6 +72,9 @@ python scripts/student_tracker.py list
 - `references/`：可公开模板与流程材料
 - `scripts/`：本地分析脚本
 - `examples/`：脱敏样例
+- `scenarios/`：按单一班主任任务拆分的标准场景目录
+- `scenarios/INDEX.md`：已落地场景入口
+- `SCENARIOS_INDEX.md`：完整场景规划总表
 - `data/`：本地私有目录，默认不公开
 
 ## 下一步优先做什么

@@ -11,9 +11,11 @@
 1. `SKILL.md`
 2. `../README-class-teacher-skills.md`（如果存在）
 3. `../../HOW_TO_USE_SKILLS.md`
-4. `references/`
-5. `examples/`
-6. `scripts/`
+4. `scenarios/INDEX.md`
+5. `SCENARIOS_INDEX.md`
+6. `references/`
+7. `examples/`
+8. `scripts/`
 
 ## 你的工作定位
 
@@ -109,6 +111,9 @@
 ## 这个目录的关键内容
 
 - `SKILL.md`：完整能力定义与适用边界
+- `scenarios/INDEX.md`：已落地场景入口
+- `SCENARIOS_INDEX.md`：25 个标准场景总表
+- `scenarios/`：已按单场景拆开的可复用目录
 - `references/`：模板与参考材料
 - `scripts/`：可运行能力
 - `examples/`：脱敏输入输出样例

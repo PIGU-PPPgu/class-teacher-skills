@@ -32,12 +32,44 @@
 - 记一下今天和小明的谈话，放进学生跟踪
 - 给我出一份家长会发言提纲
 
-### 2. 自己拿模板和脚本直接用
+### 2. 按场景直接调用
+现在 `skills/class-assistant/scenarios/` 已拆成独立高频场景目录，适合 agent 或人工按任务类型直接进入。
+
+优先看：
+- `skills/class-assistant/scenarios/INDEX.md`
+- `skills/class-assistant/scenarios/01-parent-daily-notice/`
+- `skills/class-assistant/scenarios/02-parent-1on1-message/`
+- `skills/class-assistant/scenarios/03-student-comments/`
+- `skills/class-assistant/scenarios/04-grade-analysis-summary/`
+- `skills/class-assistant/scenarios/05-parent-meeting-outline/`
+- `skills/class-assistant/scenarios/06-weekly-class-plan/`
+- `skills/class-assistant/scenarios/07-conversation-record/`
+- `skills/class-assistant/scenarios/08-incident-report/`
+- `skills/class-assistant/scenarios/09-homework-missing-summary/`
+- `skills/class-assistant/scenarios/10-class-meeting-outline/`
+- `skills/class-assistant/scenarios/11-activity-runbook/`
+- `skills/class-assistant/scenarios/12-duty-roster/`
+- `skills/class-assistant/scenarios/13-daily-class-report/`
+- `skills/class-assistant/scenarios/14-weekly-class-report/`
+- `skills/class-assistant/scenarios/15-monthly-class-report/`
+- `skills/class-assistant/scenarios/16-leave-record/`
+- `skills/class-assistant/scenarios/17-home-visit-record/`
+- `skills/class-assistant/scenarios/18-discipline-record/`
+- `skills/class-assistant/scenarios/19-praise-and-encouragement/`
+- `skills/class-assistant/scenarios/20-exam-reminder-summary/`
+- `skills/class-assistant/scenarios/21-key-student-tracking/`
+- `skills/class-assistant/scenarios/22-daily-class-report/`
+- `skills/class-assistant/scenarios/23-weekly-class-report/`
+- `skills/class-assistant/scenarios/24-monthly-class-report/`
+- `skills/class-assistant/scenarios/25-parent-meeting-summary-followup/`
+
+### 3. 自己拿模板和脚本直接用
 你也可以直接看这些内容：
 - `skills/class-assistant/SKILL.md`
 - `skills/class-assistant/references/`
 - `skills/class-assistant/scripts/`
 - `skills/class-assistant/examples/`
+- `skills/class-assistant/scenarios/`
 
 ## 当前状态
 
@@ -66,7 +98,9 @@ pip install -r requirements.txt
 
 看这里：
 - `HOW_TO_USE_SKILLS.md`
+- `skills/SCENARIO_STYLE_GUIDE.md`
 - `skills/class-assistant/README.md`
+- `skills/class-assistant/SCENARIOS_INDEX.md`
 
 跑脚本：
 
