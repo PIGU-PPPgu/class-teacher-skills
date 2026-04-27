@@ -354,6 +354,104 @@
 - `examples/input.sample.md`
 - `examples/output.sample.md`
 
+### 26. 家校沟通台账
+路径：`scenarios/26-parent-communication-ledger/`
+
+适合：
+- 连续记录和家长的沟通情况
+- 做敏感事项留痕和月度复盘
+- 快速形成待跟进事项表
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 27. 作业催交跟进表
+路径：`scenarios/27-homework-followup-ledger/`
+
+适合：
+- 跟踪未交、迟交、补交和催交状态
+- 识别重复未交学生
+- 给家校沟通和周复盘提供依据
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 28. 请假返校补课跟进表
+路径：`scenarios/28-leave-return-followup/`
+
+适合：
+- 跟进请假学生返校后的补作业、补课与确认状态
+- 减少返校后的信息断层
+- 给班主任和科任协作提供统一表格
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 29. 重点学生阶段观察卡
+路径：`scenarios/29-key-student-observation-card/`
+
+适合：
+- 对重点学生做固定字段阶段观察
+- 为谈话、家校沟通和阶段复盘沉淀依据
+- 避免长期跟进只靠印象
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 30. 班级事务待办清单
+路径：`scenarios/30-class-task-checklist/`
+
+适合：
+- 汇总缴费、回执、提醒、活动准备和值日安排等杂项事务
+- 形成日清单、周清单和待确认事项表
+- 减少遗漏与重复提醒
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 31. 班级数据周统计
+路径：`scenarios/31-weekly-class-metrics/`
+
+适合：
+- 从出勤、作业、纪律、表扬等数据复盘一周班情
+- 识别异常指标和趋势变化
+- 为周报、年级汇报或家长会素材做准备
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 32. 班级数据月统计
+路径：`scenarios/32-monthly-class-metrics/`
+
+适合：
+- 沉淀月度班级运行趋势
+- 为月报、家长会和阶段总结准备数据材料
+- 识别长期异常和持续改善点
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
 ## 设计原则
 - 一个场景解决一类高频任务
 - 每个场景都提供：说明、模板、输入输出样例
