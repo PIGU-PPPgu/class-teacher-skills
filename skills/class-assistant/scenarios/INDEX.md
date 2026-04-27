@@ -467,6 +467,21 @@
 - `examples/input.sample.md`
 - `examples/output.sample.md`
 
+### 34. 分组编排 / 学习小组分配
+路径：`scenarios/34-group-assignment/`
+
+适合：
+- 新学期建学习小组或阶段性重新分组
+- 兼顾成绩层次、性格、纪律和男女搭配
+- 输出可执行分组表与分工建议
+
+包含：
+- `README.md`
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
 ## 设计原则
 - 一个场景解决一类高频任务
 - 每个场景都提供：说明、模板、输入输出样例
