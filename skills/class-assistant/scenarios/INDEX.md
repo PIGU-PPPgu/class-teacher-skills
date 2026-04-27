@@ -482,6 +482,36 @@
 - `examples/input.sample.md`
 - `examples/output.sample.md`
 
+### 35. 班干部岗位分配
+路径：`scenarios/35-class-cadre-assignment/`
+
+适合：
+- 新学期确定班干部或阶段性调岗
+- 兼顾责任心、组织力、纪律示范和培养梯队
+- 输出可执行岗位安排与公布说明
+
+包含：
+- `README.md`
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 36. 小组任务分工 / 课堂分工安排
+路径：`scenarios/36-classroom-task-assignment/`
+
+适合：
+- 课堂合作任务、项目学习或活动分工
+- 兼顾表达、记录、执行、合作与纪律提醒
+- 输出可执行分工表与学生执行版
+
+包含：
+- `README.md`
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
 ## 设计原则
 - 一个场景解决一类高频任务
 - 每个场景都提供：说明、模板、输入输出样例
