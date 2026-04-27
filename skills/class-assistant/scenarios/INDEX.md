@@ -452,6 +452,21 @@
 - `examples/input.sample.md`
 - `examples/output.sample.md`
 
+### 33. 座位编排 / 调座方案
+路径：`scenarios/33-seat-arrangement/`
+
+适合：
+- 新学期排座或阶段性调座
+- 兼顾视力、身高、纪律、男女搭配等规则
+- 输出可执行座位表与调座说明
+
+包含：
+- `README.md`
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
 ## 设计原则
 - 一个场景解决一类高频任务
 - 每个场景都提供：说明、模板、输入输出样例
