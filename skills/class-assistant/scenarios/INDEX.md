@@ -512,6 +512,36 @@
 - `examples/input.sample.md`
 - `examples/output.sample.md`
 
+### 37. 学生互助结对 / 帮扶对象分配
+路径：`scenarios/37-peer-support-pairing/`
+
+适合：
+- 新学期建互助对子或一帮一帮扶
+- 兼顾学习层次、责任心、沟通能力与稳定性
+- 输出可执行结对表与跟进说明
+
+包含：
+- `README.md`
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 38. 小组轮岗 / 值周岗位轮换
+路径：`scenarios/38-rotation-duty-schedule/`
+
+适合：
+- 小组内角色轮换或值周岗位轮换
+- 兼顾公平性、稳定性、培养机会与执行节奏
+- 输出可执行轮岗表与学生执行版
+
+包含：
+- `README.md`
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
 ## 设计原则
 - 一个场景解决一类高频任务
 - 每个场景都提供：说明、模板、输入输出样例
