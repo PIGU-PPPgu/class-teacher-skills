@@ -601,6 +601,23 @@
 - `examples/input.sample.md`
 - `examples/output.sample.md`
 
+### 43. 智能座位编排系统
+路径：`scenarios/43-smart-seat-grouping/`
+
+适合：
+- 基于多维评分的智能座位编排，实现组内优势互补、组间实力均衡
+- 新学期排座、期中调座、分组调整
+- 1+4 配对、2+3 配对的学业异质互补
+- 话多+安静、领导力强+被动、偏科互补、情绪不稳定+稳定的性格对冲
+- 需要输出分组方案、编排理由、座位图的完整方案
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+- `scripts/smart_seat_arrangement.py`
+
 ## 设计原则
 - 一个场景解决一类高频任务
 - 每个场景都提供：说明、模板、输入输出样例
