@@ -542,6 +542,65 @@
 - `examples/input.sample.md`
 - `examples/output.sample.md`
 
+### 39. 积分量化管理系统
+路径：`scenarios/39-points-reward-system/`
+
+适合：
+- 建立班级积分量化管理制度
+- 设计加减分规则、收集流程与公示方案
+- 引入游戏化"班级大富翁"机制提升学生积极性
+- 明确课代表、值日班长打分权限与操作流程
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 40. 班级编排方案（分组 / 座位 / 值日 / 班委一体化）
+路径：`scenarios/40-class-arrangement/`
+
+适合：
+- 新学期或新阶段一次性完成分组、座位、值日、班委编排
+- 引入积分、货币、游戏化（如大富翁主题）管理模式
+- 已有部分编排框架，需要补充缺失环节
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 41. 课题申报 / 教育科研项目申报
+路径：`scenarios/41-research-proposal/`
+
+适合：
+- 省/市/区级教育科学规划课题申报
+- 教师数字素养、教育评价改革等专项课题申报
+- 课题开题报告、结题报告撰写
+- 教育评价改革典型案例撰写
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
+### 42. 游戏化班级管理 / 大富翁式班级管理系统
+路径：`scenarios/42-gamified-class-management/`
+
+适合：
+- 引入大富翁机制的游戏化班级管理
+- 货币、职位、地产、卡片、排行榜全系统设计
+- 用游戏化思维激发学生内驱力
+- 需要正向激励替代简单惩罚
+
+包含：
+- `SCENARIO.md`
+- `templates.md`
+- `examples/input.sample.md`
+- `examples/output.sample.md`
+
 ## 设计原则
 - 一个场景解决一类高频任务
 - 每个场景都提供：说明、模板、输入输出样例
