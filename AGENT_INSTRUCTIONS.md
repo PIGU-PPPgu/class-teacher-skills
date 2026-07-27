@@ -23,12 +23,12 @@
 
 1. `README.md`
 2. `INSTALL.md`
-3. `HOW_TO_USE_SKILLS.md`
-4. `skills/class-assistant/SKILL.md`
-5. `skills/class-assistant/README.md`
-6. `skills/class-assistant/references/`
-7. `skills/class-assistant/examples/`
-8. `skills/class-assistant/scripts/`
+3. `SKILL.md`
+4. `SKILL_README.md`
+5. `QUICK_START.md`
+6. `references/`
+7. `examples/`
+8. `scripts/`
 
 如果你没读这些，就别假装你已经理解这个仓库。
 

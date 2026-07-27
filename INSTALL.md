@@ -23,25 +23,24 @@ https://github.com/PIGU-PPPgu/class-teacher-skills
 
 ```text
 请读取这个仓库：https://github.com/PIGU-PPPgu/class-teacher-skills
-重点加载 skills/class-assistant/
+仓库根目录就是 `class-assistant` skill 本体。
 先阅读：
 1. README.md
-2. HOW_TO_USE_SKILLS.md
-3. skills/class-assistant/SKILL.md
-4. skills/class-assistant/README.md
+2. SKILL.md
+3. SKILL_README.md
 然后按这个 skill 的方式工作，优先帮助我处理：家长通知、评语、成绩分析、考勤统计、学生跟踪、班务提醒。
 注意：不要假装你已经接通飞书/钉钉/企业微信自动发送，除非你真的有对应权限和配置。
 ```
 
 ## 如果 agent 支持“安装 skill / 导入 skill”
 
-优先让它读取这些目录和文件：
+优先让它读取这些目录和文件（仓库根目录即 skill 目录）：
 
-- `skills/class-assistant/SKILL.md`
-- `skills/class-assistant/README.md`
-- `skills/class-assistant/references/`
-- `skills/class-assistant/scripts/`
-- `skills/class-assistant/examples/`
+- `SKILL.md`
+- `SKILL_README.md`
+- `references/`
+- `scripts/`
+- `examples/`
 
 ## 如果 agent 不支持正式 skill 机制
 
@@ -108,8 +107,8 @@ pip install -r requirements.txt
 
 然后先看：
 - `README.md`
-- `HOW_TO_USE_SKILLS.md`
-- `skills/class-assistant/README.md`
+- `SKILL.md`
+- `SKILL_README.md`
 
 ## 一句话总结
 

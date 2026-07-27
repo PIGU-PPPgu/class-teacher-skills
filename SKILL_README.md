@@ -9,8 +9,8 @@
 按这个顺序：
 
 1. `SKILL.md`
-2. `../README-class-teacher-skills.md`（如果存在）
-3. `../../HOW_TO_USE_SKILLS.md`
+2. `README.md`
+3. `QUICK_START.md`
 4. `scenarios/INDEX.md`
 5. `SCENARIOS_INDEX.md`
 6. `references/`
@@ -112,7 +112,7 @@
 
 - `SKILL.md`：完整能力定义与适用边界
 - `scenarios/INDEX.md`：已落地场景入口
-- `SCENARIOS_INDEX.md`：25 个标准场景总表
+- `SCENARIOS_INDEX.md`：43 个标准场景总表
 - `scenarios/`：已按单场景拆开的可复用目录
 - `references/`：模板与参考材料
 - `scripts/`：可运行能力

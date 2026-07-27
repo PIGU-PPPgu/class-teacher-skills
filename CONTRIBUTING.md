@@ -35,12 +35,16 @@
 
 ## 目录约定
 
-- `skills/**/SKILL.md`：skill 主文档
-- `skills/**/README.md`：对外使用说明
-- `skills/**/references/`：可公开模板与参考材料
-- `skills/**/scripts/`：脚本
-- `skills/**/examples/`：脱敏示例
-- `skills/**/data/`：本地私有，默认不进仓库
+仓库根目录就是 `class-assistant` skill 本体：
+
+- `SKILL.md`：skill 主文档
+- `SKILL_README.md` / `README.md`：使用说明
+- `references/`：可公开模板与参考材料
+- `scripts/`：脚本
+- `examples/`：脱敏示例
+- `scenarios/`：场景目录
+- `companion/`：配套说明型 skill
+- `data/`：本地私有，默认不进仓库
 
 ## 对贡献者最重要的一条
 

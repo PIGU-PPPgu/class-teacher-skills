@@ -56,7 +56,7 @@ scenarios/
 - 给谁看（老师/家长/系统）
 
 ## 风格要求
-输出风格严格遵循 `skills/VOICE_ANCHOR.md`。
+输出风格严格遵循 `VOICE_ANCHOR.md`。
 
 ## 文件说明
 - `templates.md`：模板
